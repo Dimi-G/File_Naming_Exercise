@@ -1,0 +1,6 @@
+Notes from today's measurements
+
+- Sample 2 showed better efficiency than expected
+- Need to redo sample 1 JV curve - got weird results first time
+- SEM images look good, clear grain boundaries visible
+- XRD shows good crystallinity for all samples
